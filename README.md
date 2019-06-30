@@ -1,2 +1,2 @@
-# Curso-JS
-Curso de JavaScript
+# JavaScript 
+Curso de JavaScript com fundamentos e algumas funções.
